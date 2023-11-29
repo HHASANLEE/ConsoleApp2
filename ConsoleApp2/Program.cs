@@ -24,7 +24,7 @@ namespace ConsoleApp2
         }
 
         //Methodun Signature(imzasi)
-        //Access modified + Geri donus tipi + Metodun adi (input deyerler
+        //Access modified + Geri donus tipi + Metodun adi (input deyerler)
         public void GetArray()
         {
             string choose = "";
@@ -39,6 +39,7 @@ namespace ConsoleApp2
                     choose = Console.ReadLine();
                 }
                 Console.ReadLine();
+
             }
         }
     }
